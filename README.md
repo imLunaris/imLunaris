@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lunaris</h1>
-<h3 align="center">A passionate frontend developer from Egypt (living in america)</h3>
+<h3 align="center">A passionate fullstack from Egypt (living in america)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imlunaris&label=Profile%20views&color=0e75b6&style=flat" alt="imlunaris" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imlunaris" alt="imlunaris" /></a> </p>
 
-- 🔭 I’m currently working on [Lunarhost](https://lunarhost.space)
+- 🔭 I’m currently working on [Hostly](https://hostly.cloud)
 
 - 🌱 I’m currently learning **NodeJS, HTML, CSS, EJS**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lunaris.social](https://lunaris.social)
 
-- 📫 How to reach me **admin@lunarhost.space**
+- 📫 How to reach me **admin@lunaris.social**
 
 - ⚙️ I am a beginner to programming! I am learning full stack and most of these stuff I have worked with but havent really learnt (yet)!
 
